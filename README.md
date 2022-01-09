@@ -11,6 +11,7 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 | 2 	|   	| **Simple compartmental models**                	|     |
 |     | 2.x |    | [Estimating R_t of COVID-19 in the United States](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/rt_estimation/Rt%20estimation.ipynb) |
 | 3 	|   	| **Host factors**                               	|     |
+|     | 3.x |    | [An age-differential SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/age_differential_sir/age-differential-sir.ipynb) |
 | 4 	|   	| **Host-vector and multi-host interactions**    	|     |
 | 5 	|   	| **Multi-pathogen dynamics**                    	|     |
 | 6 	|   	| **Modeling the control of infectious disease** 	|     |
