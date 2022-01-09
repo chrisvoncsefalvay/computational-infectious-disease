@@ -9,6 +9,17 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |---	|---	|--------------------------------------------	| 
 | 1 	|   	| **Introduction**                               	|     |
 | 2 	|   	| **Simple compartmental models**                	|     |
+|     | 2.x |  [SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SIRD model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SIR model with population dynamics](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SI model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SIRS model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SI model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SEIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SIRC model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SIRC model with reduced carrier infectiousness](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [Symbolic solutions for SEIR models](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
+|     | 2.x |  [SI model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/simple_sir_models/simple_sir_models.ipynb)  |
 |     | 2.x |  [SIRFD model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sirfd/sirfd.ipynb) |
 |     | 2.x |  [Estimating R_t of COVID-19 in the United States](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/rt_estimation/Rt%20estimation.ipynb) |
 | 3 	|   	| **Host factors**                               	|     |
