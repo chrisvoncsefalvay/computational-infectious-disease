@@ -23,6 +23,7 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |     | 2.x |  [SIRFD model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sirfd/sirfd.ipynb) |
 |     | 2.x |  [Estimating R_t of COVID-19 in the United States](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/rt_estimation/Rt%20estimation.ipynb) |
 | 3 	|   	| **Host factors**                               	|     |
+|     | 3.x |  [Solutions of a SIR model with the same parameters for different values of n](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/sir_different_ns/sir_different_ns.ipynb) |
 |     | 3.x |  [An age-differential SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/age_differential_sir/age-differential-sir.ipynb) |
 |     | 3.x |  [Determining a WAIFW matrix from a contact network](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/waifw_from_contact_network/waifw_from_contact_network.ipynb) |
 |     | 3.x |  [Risk-stratified SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/risk_stratified_sir/risk_stratified_sir.ipynb) |
