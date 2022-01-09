@@ -12,6 +12,7 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |     | 2.x |    | [Estimating R_t of COVID-19 in the United States](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/rt_estimation/Rt%20estimation.ipynb) |
 | 3 	|   	| **Host factors**                               	|     |
 |     | 3.x |    | [An age-differential SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/age_differential_sir/age-differential-sir.ipynb) |
+|     | 3.x |    | [Determining a WAIFW matrix from a contact network](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/waifw_from_contact_network/waifw_from_contact_network.ipynb) |
 | 4 	|   	| **Host-vector and multi-host interactions**    	|     |
 | 5 	|   	| **Multi-pathogen dynamics**                    	|     |
 | 6 	|   	| **Modeling the control of infectious disease** 	|     |
