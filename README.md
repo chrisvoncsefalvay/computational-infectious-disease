@@ -13,6 +13,7 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 | 3 	|   	| **Host factors**                               	|     |
 |     | 3.x |    | [An age-differential SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/age_differential_sir/age-differential-sir.ipynb) |
 |     | 3.x |    | [Determining a WAIFW matrix from a contact network](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/waifw_from_contact_network/waifw_from_contact_network.ipynb) |
+|     | 3.x |    | [Risk-stratified SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/risk_stratified_sir/risk_stratified_sir.ipynb) |
 | 4 	|   	| **Host-vector and multi-host interactions**    	|     |
 |     | 4.x |    | [Ross-MacDonald model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch04/ross_macdonald/ross-macdonald.ipynb) |
 | 5 	|   	| **Multi-pathogen dynamics**                    	|     |
