@@ -14,6 +14,6 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 | 5 	|   	| Multi-pathogen dynamics                    	|
 | 6 	|   	| Modeling the control of infectious disease 	|
 | 7 	|   	| Temporal dynamics of epidemics             	|
-|   	|   	| Continuous Wavelet Transform               	|
+|   	| 7.x | [Continuous Wavelet spectral analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/cwt/Pertussis%20vs%20measles%20wavelet.ipynb)               	|
 | 8 	|   	| Spatial dynamics of epidemics              	|
 | 9 	|   	| Agent-based modeling                       	|
