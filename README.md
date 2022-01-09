@@ -6,7 +6,7 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 # Table of contents
 
 | Chapter | Computational Note | |
-|---	|---	|--------------------------------------------	| --- |
+|---	|---	|--------------------------------------------	| 
 | 1 	|   	| **Introduction**                               	|     |
 | 2 	|   	| **Simple compartmental models**                	|     |
 |     | 2.x |  [Estimating R_t of COVID-19 in the United States](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/rt_estimation/Rt%20estimation.ipynb) |
