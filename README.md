@@ -25,7 +25,8 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |     | 2.x |  [Fitting a SIR model to data](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/fitting_sir_to_data/SIR%20model%20fitting.ipynb) |
 |     | 2.x |  [Jacobian stability analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/jacobian_stability_analysis/Jacobian%20stability%20analysis.ipynb) |
 |     | 2.x |  [Simple stochastic SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/stochastic_sir_model/Stochastic%20SIR.ipynb) |
-|     | 2.x |  [Jacobian stability analysis]() |
+|     | 2.x |  [Jacobian stability analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/jacobian_stability_analysis/Jacobian%20stability%20analysis.ipynb) |
+|     | 2.x |  [Phase space analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/phase_space_stability/Phase%20space%20and%20stability.ipynb) |
 | 3 	|   	| **Host factors**                               	|     |
 |     | 3.x |  [Solutions of a SIR model with the same parameters for different values of n](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/sir_different_ns/sir_different_ns.ipynb) |
 |     | 3.x |  [An age-differential SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/age_differential_sir/age-differential-sir.ipynb) |
