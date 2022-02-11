@@ -41,7 +41,8 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |     | 7.x |  [Epicurve of the W African EBOV outbreak](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/epicurve/EBOV%20W%20Africa%20epicurve.ipynb) |
 |   	| 7.x |  [Continuous Wavelet spectral analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/cwt/Pertussis%20vs%20measles%20wavelet.ipynb)               	|
 |     | 7.x |  [Time series decomposition of influenza](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/time_series_decomposition/time_series_decomposition.ipynb) |
-|     | 7.x  |  [Sinusoidal temporal forcing](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/temporal_forcing/Sinusoidal%20temporal%20forcing.ipynb) |
-|     | 7.x |   [Markov switching models of temporal forcing](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/markov_switching/Temporal%20forcing%20and%20Markov%20switching.ipynb) |
+|     | 7.x  | [Bayesian changepoint detection](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/bayesian_changepoint_detection/Bayesian%20changepoint%20detection.ipynb) |
+|     | 7.x  | [Sinusoidal temporal forcing](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/temporal_forcing/Sinusoidal%20temporal%20forcing.ipynb) |
+|     | 7.x |  [Markov switching models of temporal forcing](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/markov_switching/Temporal%20forcing%20and%20Markov%20switching.ipynb) |
 | 8 	|   	| **Spatial dynamics of epidemics**              	|
 | 9 	|   	| **Agent-based modeling**                       	|
