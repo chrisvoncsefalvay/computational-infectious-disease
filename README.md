@@ -23,6 +23,7 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |     | 2.x |  [SIRFD model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sirfd/sirfd.ipynb) |
 |     | 2.x |  [Estimating R_t of COVID-19 in the United States](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/rt_estimation/Rt%20estimation.ipynb) |
 |     | 2.x |  [Fitting a SIR model to data](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/fitting_sir_to_data/SIR%20model%20fitting.ipynb) |
+|     | 2.x |  [Bayesian inference of SIRD parameters](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/bayesian_sird_parameter_estimation/Bayesian%20inference%20of%20SIRD%20parameters.ipynb) |
 |     | 2.x |  [Jacobian stability analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/jacobian_stability_analysis/Jacobian%20stability%20analysis.ipynb) |
 |     | 2.x |  [Simple stochastic SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/stochastic_sir_model/Stochastic%20SIR.ipynb) |
 |     | 2.x |  [Jacobian stability analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/jacobian_stability_analysis/Jacobian%20stability%20analysis.ipynb) |
