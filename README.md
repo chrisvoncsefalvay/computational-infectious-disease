@@ -47,4 +47,6 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |     | 7.x |  [Markov switching models of temporal forcing](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/markov_switching/Temporal%20forcing%20and%20Markov%20switching.ipynb) |
 |     | 7.x |  [Granger causality](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/granger_causality/Granger%20causality.ipynb) |
 | 8 	|   	| **Spatial dynamics of epidemics**              	|
+|     | 8.x |  [Moran's I of COVID-19 incidence](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/morans_i/Moran's%20I.ipynb)            |
 | 9 	|   	| **Agent-based modeling**                       	|
+|     | 9.x |  [Agent-based SEIRD model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/seird_abm/Agent-based%20SEIRD.ipynb)   |
