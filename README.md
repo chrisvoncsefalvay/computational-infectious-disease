@@ -50,3 +50,8 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 |     | 8.x |  [Moran's I of COVID-19 incidence](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/morans_i/Moran's%20I.ipynb)            |
 | 9 	|   	| **Agent-based modeling**                       	|
 |     | 9.x |  [Agent-based SEIRD model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/seird_abm/Agent-based%20SEIRD.ipynb)   |
+|    | 9.x. |  [Agent-based SEIRD model with vaccination](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/abm_seird_with_vaccination/SEIRD%20with%20vaccination.ipynb) |
+|    | 9.x. |  [Movement in continuous space](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/movement_in_continuous_space/Movement%20in%20continuous%20space.ipynb) |
+|    | 9.x. |  [Continuous space Lévy flight](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/continuous_space_levy_flight/Continuous%20space%20Levy%20walk.ipynb) |
+|    | 9.x. |  [Continuous space Lévy flight](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/continuous_space_levy_flight/Continuous%20space%20Levy%20walk.ipynb) |
+|    | 9.x  |  [The effect of quarantine](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/effect_of_quarantine/Effects%20of%20quarantine.ipynb) |
