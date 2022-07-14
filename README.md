@@ -5,14 +5,90 @@ The companion repository to Computational Modeling of Infectious Disease by Chri
 
 # Table of contents
 
-| Chapter | Computational Note |                                                   |
-|---------|--------------------|---------------------------------------------------| 
-| 1 	     | 	                  | **Introduction**                               	  |
-| 2 	     | 	                  | **Simple compartmental models**                	  |
-| 3 	     | 	                  | **Host factors**                               	  |
-| 4 	     | 	                  | **Host-vector and multi-host interactions**    	  |
-| 5 	     | 	                  | **Multi-pathogen dynamics**                    	  |
-| 6 	     | 	                  | **Modeling the control of infectious disease** 	  |
-| 7 	     | 	                  | **Temporal dynamics of epidemics**             	  |
-| 8 	     | 	                  | **Spatial dynamics of epidemics**              	  |
-| 9 	     | 	                  | **Agent-based modeling**                       	  |
+| Chapter | Computational Note |                                                                                                                                                                                                                          |
+|---------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| 1 	     | 	                  | **Introduction**                               	                                                                                                                                                                         |
+| 2 	     | 	                  | **Simple compartmental models**                	                                                                                                                                                                         |
+|         | 2.1                | [ODE solvers](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sir_models/SIR%20and%20related%20models.ipynb)                                                                        |
+|         | 2.2                | [Solving ODEs in Python](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sir_models/SIR%20and%20related%20models.ipynb)                                                             |
+|         | 2.3                | [Phase portraits](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/phase_space/Phase%20space%20and%20stability.ipynb)                                                                |                            |
+|         | 2.4                | [Setting initial parameters](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sir_models/SIR%20and%20related%20models.ipynb)                                                         |
+|         | 2.5                | [Waning immunity](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sir_models/SIR%20and%20related%20models.ipynb)                                                                    |
+|         | 2.6                | [Solving SEIR models](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sir_models/SIR%20and%20related%20models.ipynb)                                                                |
+|         | 2.7                | [Solving SIRC models](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sir_models/SIR%20and%20related%20models.ipynb)                                                                |
+|         | 2.8                | [Solving SIRC models with reduced infectiousness](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/sir_models/SIR%20and%20related%20models.ipynb)                                    |
+|         | 2.9                | [Symbolic computation of R_0 in a complex model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/symbolic_r0/Symbolic%20determination%20of%20R0.ipynb)                              |
+|         | 2.10               | Contact tracing data with `NetworkX`                                                                                                                                                                                     |
+|         | 2.11               | [Symbolic determination of the moment-generation function](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/symbolic_mgf/Symbolic%20moment%20generation%20function.ipynb)            |
+|         | 2.12               | [Estimating R_t](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/rt_estimation/Rt%20estimation.ipynb)                                                                               |
+|         | 2.13               | [Multi-parameter estimation with `lmfit` and Emcee](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/multiparameter/Multiparameter%20fitting.ipynb)                                  |
+|         |                    | [Funerary transmission](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch02/funerary_transmission/SIRFD.ipynb)                                                                          |
+| 3 	     | 	                  | **Host factors**                               	                                                                                                                                                                         |
+|         | 3.1                | [Calculating the R_0 of complex stratified models](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/stratified_r0/R_0%20of%20stratified%20system.ipynb)                              |
+|         | 3.2                | [Calculating the mixing matrix from a contact network](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/contact_waifw/WAIFW%20from%20network.ipynb)                                  |
+|         | 3.3                | [Age differential SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/age_differential_sir/Age%20differential%20SIR.ipynb)                                                   |
+|         | 3.4                | [Inference of mixing matrices](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/contact_matrix/Contact%20matrix%20inference.ipynb)                                                   |
+|         | 3.5                | [Subcompartmental models](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch03/subcompartmental_models/Subcompartmental%20models.ipynb)                                                  |
+| 4 	     | 	                  | **Host-vector and multi-host interactions**    	                                                                                                                                                                         |
+|         | 4.1                | [Implementing the Ross-MacDonald model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch04/ross_macdonald/Ross-Macdonald%20model.ipynb)                                                |
+|         | 4.2                | [Creating streamplots](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch04/ross_macdonald/Ross-Macdonald%20model.ipynb)                                                                 |
+|         | 4.3                | [Inferring parameters for a vector-borne disease](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch04/host_vector_pe/Inferring%20parameters%20of%20a%20SIR-SI%20host-vector%20model.ipynb) |
+|         | 4.4                | [Managing complex models with structures](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch04/ross_macdonald/Ross-Macdonald%20model.ipynb)                                              |
+|         | 4.5                | [Time dependence in ODE solvers](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch04/zoonosis/Zoonosis.ipynb)                                                                           |
+| 5 	     | 	                  | **Multi-pathogen dynamics**                    	                                                                                                                                                                         |
+|         | 5.1                | [Solving multi-pathogen compartmental models with transition matrices](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch05/transition_matrix/Transition%20matrix.ipynb)                 |
+|         | 5.2                | [Modeling the no-coinfection no-cross immunity interaction](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch05/transition_matrix/Transition%20matrix.ipynb)                            |
+|         |                    | [Complete cross-immunity](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch05/complete_cross_immunity/Complete%20cross-immunity.ipynb)                                                  |
+|         |                    | [No-coinfection no-cross immunity simplified](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch05/nc_nci/No-coinfection%20no-cross%20immunity.ipynb) |
+| 6 	     | 	                  | **Modeling the control of infectious disease** 	                                                                                                                                                                         |
+|         | 6.1                | Hierarchical MCMC uncertainty analysis |
+|         | 6.2                | [Targeted vaccination](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch06/rtv/Risk%20targeted%20vaccination.ipynb) |
+|         | 6.3                | [Solving delay differential equations computationally](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch06/waning_dde/Vaccine%20waning%20immunity%20DDE%20model.ipynb)|
+|         | 6.4                | [Modeling the effect of different quarantine regimes](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch06/quarantine/General%20quarantine.ipynb) |
+|         | 6.5                | [Iterative stateful evaluation](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch06/circuit_breaker/Circuit%20breaker.ipynb) |
+| 7 	     | 	                  | **Temporal dynamics of epidemics**             	                                                                                                                                                                         |
+|         | 7.1                | [Symbolic identification of equilibria](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/sir_stability/SIR%20numeric%20equilibrium%20and%20stability.ipynb) |
+|         | 7.2                | [Numeric equilibrium of a SIR model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/sir_stability/SIR%20numeric%20equilibrium%20and%20stability.ipynb) |
+|         | 7.3                | [Symbolic equilibrium analysis of SEIR models](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/seir_stability/SEIR%20symbolic%20stability.ipynb) |
+|         | 7.4                | [Time series decomposition](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/ts_decomposition/Time%20series%20decomposition%20of%20influenza%20incidence.ipynb) |
+|         | 7.5                | [Plotting time series decompositions](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/ts_decomposition/Time%20series%20decomposition%20of%20influenza%20incidence.ipynb) |
+|         | 7.6                | [Continuous Wavelet spectral analysis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/cwt/Pertussis%20vs%20measles%20wavelet.ipynb) |
+|         | 7.7                | [Discrete Lyapunov exponents to estimate chaos](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/discrete_lyapunov/Discrete%20Lyapunov%20exponents.ipynb) |
+|         |                    | [Birth pulsing](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/birth_pulsing/Birth%20pulse.ipynb) |
+|         |                    | [Sinusoidal temporal forcing](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch07/sinusoidal_forcing/Sinusoidal%20temporal%20forcing.ipynb) |
+| 8 	     | 	                  | **Spatial dynamics of epidemics**              	                                                                                                                                                                            |
+|         | 8.1                | [Simple spatial lattices](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/spatial_lattice/Spatial%20lattice.ipynb) |
+|         | 8.2                | [Indexing and manipulation of multi-dimensional arrays](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/spatial_lattice/Spatial%20lattice.ipynb) |
+|         | 8.3                | [Kernel neighbourhoods](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/kernel_neighbourhoods/Kernel%20neighbourhoods.ipynb) |
+|         | 8.4                | [A neighbourhood model of influence](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/filtering/Filtering.ipynb) |
+|         | 8.5                | [Minimum-filtered spatial lattice](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/filtering/Filtering.ipynb) |
+|         | 8.6                | [Spatial autocorrelation of COVID-19](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/morans_i/Moran's%20I.ipynb) |
+|         | 8.7                | [Modeling the pandemic that never was](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/reston_virus/Reston%20virus.ipynb) |
+|         | 8.8                | [Access and distance](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/access_heterogeneities/Hospital%20access.ipynb) |
+|         | 8.9                | [Placing testing sites in Manhattan](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/testing_site_location/Testing%20site%20location.ipynb) |
+|         | 8.10               | [Nested interdiction](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch08/graph_interdiction/Graph%20interdiction.ipynb) |
+| 9 	     | 	                  | **Agent-based modeling**                       	                                                                                                                                                                            |
+|         | 9.1                | [Using Mesa](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.2                | [Initialising the model](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.3                | [Using enumerations to define states](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.4                | [Creating the `Agent` blueprint](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.5                | [Probabilistic steps in ABMs](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.6                | [Creating the infectious process](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.7                | [Networks in Mesa](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.8                | [Activations in Mesa](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.9                | [The `Model` class and parametrising the ABM](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.10               | [Collection and export from ABMs](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.11               | [Creating seed populations](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.12               | [Iterative running of ABMs](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/sir_abm/Vanilla%20SIR%20ABM.ipynb) |
+|         | 9.13               | [The q infector](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/q_infector/Q%20infector.ipynb) |
+|         | 9.14               | [An ABM for pure vector-borne disease](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/host_vector_abm/Host-vector%20ABM.ipynb) |
+|         | 9.15               | [SI-SIRD epidemic competition](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/epidemic_competition/Epidemic%20competition%20SI-SIRD.ipynb) |
+|         | 9.16               | [Competing pathogens with a modal shift](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/epidemic_competition/Epidemic%20competition%20SI-SIRD.ipynb) |
+|         | 9.17               | [Quarantine modeling](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/quarantine/SEIRD%20with%20quarantine.ipynb) |
+|         | 9.18               | [Vaccination and peer influence](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/blocking/Modeling%20anti-vaccine%20sentiment.ipynb) |
+|         | 9.19               | [Targeted prophylaxis](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/targeted_prophylaxis/Targeted%20prophylaxis.ipynb) |
+|         | 9.20               | [Modeling anti-vaccine sentiment](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/blocking/Modeling%20anti-vaccine%20sentiment.ipynb) |
+|         | 9.21               | [ABM of treatment effects](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/treatment_abm/SEIRD%20with%20treatment.ipynb) |
+|         | 9.22               | [A spatial graph with movement](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/network_movement/Network%20with%20movement.ipynb) |
+|         | 9.23               | [Homesick random-destination walks](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/homesick_agent/Homesick%20agent.ipynb) |
+|         |                    | [Healthcare capacity contingent mortality](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/hccm/Healthcare%20capacity%20contingent%20mortality.ipynb) |
