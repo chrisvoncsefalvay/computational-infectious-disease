@@ -1,6 +1,6 @@
 # The Computational Modeling of Infectious Disease
 
-The companion repository to Computational Modeling of Infectious Disease by Chris von Csefalvay (Elsevier/Academic Press, 2023).
+The companion repository to [Computational Modeling of Infectious Disease by Chris von Csefalvay (Elsevier/Academic Press, 2023)](https://www.elsevier.com/books/computational-modeling-of-infectious-diseases/csefalvay/978-0-323-95389-4).
 
 
 # Table of contents
