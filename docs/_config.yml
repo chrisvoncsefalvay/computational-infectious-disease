@@ -1,0 +1,23 @@
+title: The Computational Modeling of Infectious Disease
+description: By Chris von Csefalvay
+google_analytics:
+author:
+  name: Chris von Csefalvay
+  email: chris@chrisvoncsefalvay.com
+description: >
+  The Computational Modeling of Infectious Disease is a 2023 book by epidemiologist Chris von Csefalvay on
+  predicting, analysing and managing infectious diseases using computational tools.
+  
+minima:
+  date_format: "%b %-d, %Y"
+  
+  social_links:
+    github: chrisvoncsefalvay
+    linkedin: chrisvoncsefalvay
+    google_scholar_id: X_2G-VsAAAAJ
+    
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
