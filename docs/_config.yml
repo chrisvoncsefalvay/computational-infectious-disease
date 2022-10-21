@@ -7,7 +7,9 @@ author:
 description: >
   The Computational Modeling of Infectious Disease is a 2023 book by epidemiologist Chris von Csefalvay on
   predicting, analysing and managing infectious diseases using computational tools.
-  
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
 minima:
   date_format: "%b %-d, %Y"
   
