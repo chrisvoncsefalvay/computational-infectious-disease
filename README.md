@@ -96,3 +96,12 @@ The companion repository to [Computational Modeling of Infectious Disease by Chr
 |         | 9.22               | [A spatial graph with movement](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/network_movement/Network%20with%20movement.ipynb)                                                      |
 |         | 9.23               | [Homesick random-destination walks](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/homesick_agent/Homesick%20agent.ipynb)                                                             |
 |         |                    | [Healthcare capacity contingent mortality](https://github.com/chrisvoncsefalvay/computational-infectious-disease/blob/main/ch09/hccm/Healthcare%20capacity%20contingent%20mortality.ipynb)                                  |
+
+
+# About the author
+
+[Chris von Csefalvay](https://www.chrisvoncsefalvay.com) is a data scientist and computational epidemiologist specialising in the computational dynamics of infectious diseases.
+Born in Budapest, Hungary, he was educated at Oxford, Leiden and Cardiff.
+
+He is the author of several papers. His first monograph, [_The Computational Modeling of Infectious Disease_](https://www.elsevier.com/books/computational-modeling-of-infectious-diseases/csefalvay/978-0-323-95389-4), was published by Elsevier in 2023. 
+He is a Fellow of the Royal Society for Public Health, and lives in Northern Virginia with his wife and their Golden Retriever, Oliver.
