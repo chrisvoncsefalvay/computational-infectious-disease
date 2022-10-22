@@ -2,6 +2,10 @@
 
 The companion repository to [Computational Modeling of Infectious Disease by Chris von Csefalvay (Elsevier/Academic Press, 2023)](https://www.elsevier.com/books/computational-modeling-of-infectious-diseases/csefalvay/978-0-323-95389-4).
 
+# Buy the book
+
+* [Directly from Elsevier](https://www.elsevier.com/books/computational-modeling-of-infectious-diseases/csefalvay/978-0-323-95389-4)
+* Amazon ([US](https://www.amazon.com/Computational-Modeling-Infectious-Disease-Applications/dp/0323953891/ref=sr_1_1?crid=1SBDXVY697S87&keywords=chris+von+csefalvay&qid=1666476348&sprefix=chris+von+csefalva%2Caps%2C103&sr=8-1), [UK](https://www.amazon.co.uk/Computational-Modeling-Infectious-Disease-Applications/dp/0323953891/ref=sr_1_1?crid=26M6XXP7LMIA6&keywords=chris+von+csefalvay&qid=1666476376&sprefix=chris+von+csefalvay%2Caps%2C129&sr=8-1), [JP](https://www.amazon.co.jp/Computational-Modeling-Infectious-Diseases-Applications/dp/0323953891))
 
 # Table of contents
 
